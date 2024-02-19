@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manish Chaudhari</h1>
+
+![download (1)](https://github.com/rorManish09/rorManish09/assets/122202605/a06eeb3c-4d74-4f9c-a6ca-792a58bcaaaf)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rorManish09&label=Profile%20views&color=0e75b6&style=flat" alt="rorManish09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rorManish09" alt="rorManish09" /></a> </p>
-
-
-![download (1)](https://github.com/rorManish09/rorManish09/assets/122202605/a06eeb3c-4d74-4f9c-a6ca-792a58bcaaaf)
-
-
 - 🔭 I’m currently working on **My portfolio**
 
 - 🌱 I’m currently learning **Python**
